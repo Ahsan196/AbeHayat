@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">AbeHayat</string>
+    <string name="reg_label">Register</string>
+    <string name="login_label">Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="showName">Name</string>
+    <string name="showPhone">Phone Number</string>
+    <string name="showAddress">Address</string>
+    <string name="showEmail">Email</string>
+    <string name="takeOrder">Order</string>
+    <string name="log_Out">Logout</string>
+    <string name="editInfo">Edit</string>
+    <string name="quan">Enter Quantity</string>
+    <string name="credit">Credit Card Number</string>
+    <string name="con">Order</string>
+    <string name="Pass_word">Password</string>
+    <string name="setAddress">Address</string>
+    <string name="setName">Name</string>
+    <string name="setPhone">Phone</string>
+    <string name="showpass">Password</string>
+    <string name="showCusmID">Customer ID</string>
+    <string name="showrec">Receipt</string>
+    <string name="RecNo">ReceiNo</string>
+    <string name="logt">logout</string>
+    <string name="askPay">Pay</string>
+    <string name="askPay1">Pay On Cash</string>
+    <string name="ordNo">Order number</string>
+    <string name="orderDate">Order Date</string>
+    <string name="ordstatus">Order Status</string>
+    <string name="deDate">Delievry date</string>
+    <string name="showQuan">Quantity</string>
+    <string name="showAmount">Amount</string>
+    <string name="confPay">Confirm Payment</string>
+    <string name="canOrder">Cancel Order</string>
+    <string name="sendCodeMobile">Enter Code</string>
+    <string name="conPayment">Continue Payment</string>
+    <string name="SuccOrder">Order has successfully recorded</string>
+    <string name="neOrder">New Order</string>
+    <string name="reg2">Register</string>
+    <string name="InputCusmID">Customer ID</string>
+    <string name="passwrd">Password</string>
+    <string name="size">Size</string>
+    <string name="vworder">View Order</string>
+    <string name="Set_ting">Setting</string>
+    <string name="comp">Complain</string>
+    <string name="dis">Display</string>
+    <string name="setEMail">Email</string>
+    <string name="vInfo">View Information</string>
+    <string name="or_Der">Order</string>
+    <string name="customerId">Customer ID</string>
+</resources>
